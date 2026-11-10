@@ -7,8 +7,7 @@ public class NewBehaviourScript3 : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
-        bool shouldContinue = false;
-
+        bool shouldContinue = false; //creating a boolean variable to use in my loop
         do
         {
             print("Hello World");
